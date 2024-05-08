@@ -2,3 +2,4 @@
     - ML course
     - Start Documentation
     - Project start again
+    - do cost function visualization
