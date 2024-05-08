@@ -1,3 +1,4 @@
 08/05 Wednesday: 
     - ML course
-    
+    - Start Documentation
+        
