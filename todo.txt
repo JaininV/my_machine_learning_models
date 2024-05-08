@@ -11,8 +11,8 @@ Daily routine:
     - End work 6:00
 
 Goal:
-    - work 8 hours atleast 
-    - Give time ML/DL/DS
+    - work 8 hours atleast                  - Complete ML course before Tuesday
+    - Give time ML/DL/DS                    - Practice on model
     - Apply
     - Research for Company
     - Projects 
