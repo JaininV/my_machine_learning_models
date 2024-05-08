@@ -3,3 +3,18 @@
     - Start Documentation
     - Project start again
     - do cost function visualization
+
+Daily routine: 
+    - Waking up upto 7:00
+    - nasto 8:00 
+    - start work at 9:00
+    - End work 6:00
+
+Goal:
+    - work 8 hours atleast 
+    - Give time ML/DL/DS
+    - Apply
+    - Research for Company
+    - Projects 
+    - Pooja
+    - Exercise (OPTIONAL)
