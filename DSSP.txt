@@ -1,1 +1,4 @@
-Data Science Service Provider
+Data Science Service Provider:
+It should be a firm which provide service regarding data science such as Data Analytics, Data Visualization, Data Collection, 
+Marcket research for potencial business, Model Building and many more.
+
