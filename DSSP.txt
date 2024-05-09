@@ -37,3 +37,25 @@ Marcket research for potencial business, Model Building and many more.
     7. I need to improve confidennce and communication skills very hard
     
     8. Need to build portfolio
+
+Skills and concepts requirenment for services
+    1. Programming
+        - Python
+        - R
+        - Sas
+        - SQL
+    
+    2. Mathematics
+        - Stats
+        - Probabilty
+        - Dimension Reduction
+
+    3. Database
+
+    4. Machine Learning and Deep Learning
+
+    5. Data Visualization
+
+    6. cloud service
+
+    7. Soft Skills
