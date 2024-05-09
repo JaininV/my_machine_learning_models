@@ -17,3 +17,15 @@ Marcket research for potencial business, Model Building and many more.
         - I need to create business model which can define my target, prce strategy, 
         - Earning model
         - Proper structure of firm
+
+    4. Build team
+     - I need to deside like I want to work alone or need human supports for catching goals
+     - First I can start alone as a remote work.
+
+
+    5. Aware with requirenmnt for firm
+        - Know technology that usefull for data science
+        - Storage problems
+        - Devices for work
+
+    
