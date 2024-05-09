@@ -9,3 +9,6 @@ Marcket research for potencial business, Model Building and many more.
         - Identify potential clients, Competitors, market trend
 
     2. Define Service
+        - Define specific service that company provide
+        - Define areas of expertises
+        - find market demads
