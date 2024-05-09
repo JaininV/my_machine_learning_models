@@ -12,3 +12,8 @@ Marcket research for potencial business, Model Building and many more.
         - Define specific service that company provide
         - Define areas of expertises
         - find market demads
+    
+    3. Develoope Business Plan
+        - I need to create business model which can define my target, prce strategy, 
+        - Earning model
+        - Proper structure of firm
