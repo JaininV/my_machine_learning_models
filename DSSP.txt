@@ -2,3 +2,10 @@ Data Science Service Provider:
 It should be a firm which provide service regarding data science such as Data Analytics, Data Visualization, Data Collection, 
 Marcket research for potencial business, Model Building and many more.
 
+    1. Marcket Research and Analysis
+        - Threw out this step, I will understand marcket tendency. 
+        - Understand Market demands
+        - What is requirenment for one organization regarding their datas
+        - Identify potential clients, Competitors, market trend
+
+    2. Define Service
