@@ -1,6 +1,6 @@
 Data Science Service Provider:
-It should be a firm which provide service regarding data science such as Data Analytics, Data Visualization, Data Collection, 
-Marcket research for potencial business, Model Building and many more.
+DSSP is a Data science service provider firm which should provide facilities regarding data science and Machine Learning services such as 
+Data Analytics, Data Visualization, Data Collection, Market research for potential business, Model Building and many more.
 
     1. Marcket Research and Analysis
         - Threw out this step, I will understand marcket tendency. 
