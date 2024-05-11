@@ -18,3 +18,7 @@ Goal:
     - Projects 
     - Pooja
     - Exercise (OPTIONAL)
+
+TODO:
+    - Gradient Dec 
+    - Cost function
