@@ -4,20 +4,8 @@
     - Project start again
     - do cost function visualization
 
-Daily routine: 
-    - Waking up upto 7:00
-    - nasto 8:00 
-    - start work at 9:00
-    - End work 6:00
-
-Goal:
-    - work 8 hours atleast                  - Complete ML course before Tuesday
-    - Give time ML/DL/DS                    - Practice on model
-    - Apply
-    - Research for Company
-    - Projects 
-    - Pooja
-    - Exercise (OPTIONAL)
+Need:
+    - Need to complete ML course in sunday
 
 TODO:
     - Gradient decent
