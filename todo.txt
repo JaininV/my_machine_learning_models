@@ -6,6 +6,7 @@
 
 Need:
     - Need to complete ML course in sunday
+    - Money project
 
 TODO:
     - Gradient decent
