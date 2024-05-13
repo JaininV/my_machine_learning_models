@@ -20,5 +20,4 @@ Goal:
     - Exercise (OPTIONAL)
 
 TODO:
-    - Gradient Dec 
-    - Cost function
+    - Gradient decent
