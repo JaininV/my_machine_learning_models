@@ -1,0 +1,13 @@
+Machine Learning Study Plan: 2024
+
+week 1:
+    -ML Fundamentals
+    - What is ML?
+    - Types of ML
+    - Supervised vs. Unsupervised Learning
+    - Setting up for ML
+    - Python and Libraries
+    - Jupyter Notebooks
+    - Datasets
+    - First ML Project
+    - Linear Regression
