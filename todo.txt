@@ -9,11 +9,11 @@ Need:
     - Money project
 
 TODO:
-    - ML Fundamentals
-    - What is ML?
-    - Types of ML
-    - Supervised vs. Unsupervised Learning
-    - Setting up for ML
+    - ML Fundamentals                           done
+    - What is ML?                               done
+    - Types of ML                               done
+    - Supervised vs. Unsupervised Learning      done
+    - Setting up for ML                             
     - Python and Libraries
     - Jupyter Notebooks
     - Datasets
