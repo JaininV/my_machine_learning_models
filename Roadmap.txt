@@ -11,3 +11,14 @@ week 1:
     - Datasets
     - First ML Project
     - Linear Regression
+
+Week 2:
+    - Classification Algorithms
+    - Logistic Regression
+    - Decision Trees
+    - Model Evaluation
+    - Accuracy, Precision, Recall, F1 Score
+    - Confusion Matrix
+    - Clustering
+    - K-Means
+    - Hierarchical Clustering
