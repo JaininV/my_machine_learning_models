@@ -34,3 +34,58 @@ Week 3:
     - SVM
     - SVM
     - Kernel Methods
+
+Week 4:
+    - Neural Networks
+    - Introduction
+    - Activation Functions
+    - (CNN)
+    - Image Classification
+    - Object Detection
+    - (RNN)
+    - Time Series
+    - NLP
+
+|-- Week 5-8: Specialized ML Topics
+| |-- Reinforcement Learning
+| | |-- Q-Learning
+| | |-- Policy Gradient
+| | |-- Deep Reinforcement Learning
+| |-- NLP and Text Analysis
+| | |-- Text Preprocessing
+| | |-- Named Entity Recognition
+| | |-- Text Classification
+| |-- Computer Vision
+| | |-- Image Processing
+| | |-- Object Detection
+| | |-- Image Generation
+| | |-- Style Transfer
+|
+|-- Week 9-11: Real-world App and Projects
+| |-- Capstone Project
+| | |-- Data Collection
+| | |-- Model Building
+| | |-- Evaluation and Optimization
+| | |-- Presentation
+| |-- Kaggle Competitions
+| | |-- Data Science Community
+| |-- Industry-based Projects
+|
+|-- Week 12: Post-Project Learning
+| |-- Model Deployment
+| | |-- Docker
+| | |-- Cloud Platforms (AWS, GCP, Azure)
+| |-- MLOps
+| | |-- Model Monitoring
+| | |-- Model Version Control
+| |-- Continuing Education
+| | |-- Advanced Topics
+| | |-- Research Papers
+| | |-- New Dev
+|
+|-- Resources and Community
+| |-- Online Courses (Coursera, edX, Udacity)
+| |-- Books (ISLR, Introduction to ML with Python)
+| |-- Data Science Blogs and Podcasts
+| |-- GitHub Repo
+| |-- Data Science Communities (Kaggle)1
