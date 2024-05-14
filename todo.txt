@@ -15,7 +15,7 @@ TODO:
     - Supervised vs. Unsupervised Learning      done
     - Setting up for ML                         done    
     - Python and Libraries                      done
-    - Jupyter Notebooks
-    - Datasets
+    - Jupyter Notebooks                         done
+    - Datasets                                  done
     - First ML Project
-    - Linear Regression
+    - Linear Regression         
