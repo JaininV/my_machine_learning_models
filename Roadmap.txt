@@ -71,18 +71,18 @@ Week 9-11: Real-world App and Projects
     - Data Science Community
     - Industry-based Projects
 
-|-- Week 12: Post-Project Learning
-| |-- Model Deployment
-| | |-- Docker
-| | |-- Cloud Platforms (AWS, GCP, Azure)
-| |-- MLOps
-| | |-- Model Monitoring
-| | |-- Model Version Control
-| |-- Continuing Education
-| | |-- Advanced Topics
-| | |-- Research Papers
-| | |-- New Dev
-|
+Week 12: Post-Project Learning
+    - Model Deployment
+    - Docker
+    - Cloud Platforms (AWS, GCP, Azure)
+    - MLOps
+    - Model Monitoring
+    - Model Version Control
+    - Continuing Education
+    - Advanced Topics
+    - Research Papers
+    - New Dev
+
 |-- Resources and Community
 | |-- Online Courses (Coursera, edX, Udacity)
 | |-- Books (ISLR, Introduction to ML with Python)
