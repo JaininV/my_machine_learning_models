@@ -1,6 +1,6 @@
-08/05 Wednesday: 
-    - ML course
-    - Start Documentation
+08/05 Wednesday:                                                           | BLOG TOPIC 
+    - ML course                                                            |    - Fundamental of ML
+    - Start Documentation                                                  |    - ML flow
     - Project start again
     - do cost function visualization
 
@@ -13,7 +13,7 @@ TODO:
     - What is ML?                               done
     - Types of ML                               done
     - Supervised vs. Unsupervised Learning      done
-    - Setting up for ML                             
+    - Setting up for ML                         done    
     - Python and Libraries
     - Jupyter Notebooks
     - Datasets
