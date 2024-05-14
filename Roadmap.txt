@@ -46,21 +46,21 @@ Week 4:
     - Time Series
     - NLP
 
-|-- Week 5-8: Specialized ML Topics
-| |-- Reinforcement Learning
-| | |-- Q-Learning
-| | |-- Policy Gradient
-| | |-- Deep Reinforcement Learning
-| |-- NLP and Text Analysis
-| | |-- Text Preprocessing
-| | |-- Named Entity Recognition
-| | |-- Text Classification
-| |-- Computer Vision
-| | |-- Image Processing
-| | |-- Object Detection
-| | |-- Image Generation
-| | |-- Style Transfer
-|
+Week 5-8: Specialized ML Topics
+    - Reinforcement Learning
+    - Q-Learning
+    - Policy Gradient
+    - Deep Reinforcement Learning
+    - NLP and Text Analysis
+    - Text Preprocessing
+    - Named Entity Recognition
+    - Text Classification
+    - Computer Vision
+    - Image Processing
+    - Object Detection
+    - Image Generation
+    - Style Transfer
+    
 |-- Week 9-11: Real-world App and Projects
 | |-- Capstone Project
 | | |-- Data Collection
