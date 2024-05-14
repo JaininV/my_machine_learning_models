@@ -22,3 +22,15 @@ Week 2:
     - Clustering
     - K-Means
     - Hierarchical Clustering
+
+Week 3:
+    - Ensemble Methods
+    - Random Forest
+    - Gradient Boosting
+    - Bagging and Boosting
+    - PCA
+    - t-SNE
+    - Autoencoders
+    - SVM
+    - SVM
+    - Kernel Methods
