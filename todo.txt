@@ -14,7 +14,7 @@ TODO:
     - Types of ML                               done
     - Supervised vs. Unsupervised Learning      done
     - Setting up for ML                         done    
-    - Python and Libraries
+    - Python and Libraries                      done
     - Jupyter Notebooks
     - Datasets
     - First ML Project
