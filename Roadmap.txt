@@ -83,9 +83,9 @@ Week 12: Post-Project Learning
     - Research Papers
     - New Dev
 
-|-- Resources and Community
-| |-- Online Courses (Coursera, edX, Udacity)
-| |-- Books (ISLR, Introduction to ML with Python)
-| |-- Data Science Blogs and Podcasts
-| |-- GitHub Repo
-| |-- Data Science Communities (Kaggle)1
+Resources and Community
+    - Online Courses (Coursera, edX, Udacity)
+    - Books (ISLR, Introduction to ML with Python)
+    - Data Science Blogs and Podcasts
+    - GitHub Repo
+    - Data Science Communities (Kaggle)1
