@@ -60,17 +60,17 @@ Week 5-8: Specialized ML Topics
     - Object Detection
     - Image Generation
     - Style Transfer
-    
-|-- Week 9-11: Real-world App and Projects
-| |-- Capstone Project
-| | |-- Data Collection
-| | |-- Model Building
-| | |-- Evaluation and Optimization
-| | |-- Presentation
-| |-- Kaggle Competitions
-| | |-- Data Science Community
-| |-- Industry-based Projects
-|
+
+Week 9-11: Real-world App and Projects
+    - Capstone Project
+    - Data Collection
+    - Model Building
+    - Evaluation and Optimization
+    - Presentation
+    - Kaggle Competitions
+    - Data Science Community
+    - Industry-based Projects
+
 |-- Week 12: Post-Project Learning
 | |-- Model Deployment
 | | |-- Docker
