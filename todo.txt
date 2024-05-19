@@ -18,4 +18,4 @@ TODO:
     - Jupyter Notebooks                         done
     - Datasets                                  done
     - First ML Project                          
-    - Linear Regression                          
+    - Linear Regression                         done
