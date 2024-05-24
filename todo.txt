@@ -34,4 +34,9 @@ I am learning SQL Advance for data migration, which will assist me in migrating 
 As a data science Intern, I am gaining experience in data analytics tools like PowerBI and Excel. I solved machine learning and data science problems similar to my task. 
 I never attended a corporate meeting with high authorities, but in recent times I have joined a virtual meeting for marketing with the president and marketing team. It was a different experience.
 I got the opportunity to work with another team as well and presented our contribution to sales analysis. 
+As a data science Intern, I am gaining experience in data analytics tools like PowerBI and Excel. I solved machine learning and data science problems similar to my task. 
+I never attended a corporate meeting with high authorities, but in recent times I have joined a virtual meeting for marketing with the president and marketing team. It was a different experience.
+I got the opportunity to work with another team as well and presented our contribution to sales analysis. 
+I contributed more to coding by solving daily tasks, I learned to build API in Python using Flask. I have already experienced building API in node JS and used those flows in Python for the backend process. 
+I am still forcing myself to build effective skills for Data science. 
 
