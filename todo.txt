@@ -30,3 +30,4 @@ TODO:
 
 •	For GitHub, I preferred to watch official guidelines from GitHub which give step by step process for creating GitHub repositories, create Init file, clone repositories, and connect with visual studio by installing GitBash.
 I made a different Excel sheet that will handle data for each platform. I collect data from all platforms sequentially which will not merge during the collection process and will be maintained separately. 
+I am learning SQL Advance for data migration, which will assist me in migrating data according to organizations' requirements. I did the research for solutions to SQL query problems and found them on StackOverflow. 
