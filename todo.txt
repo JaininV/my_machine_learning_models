@@ -27,3 +27,4 @@ TODO:
 •	It was hard to catch up with daily goals as an intern, but senior employees helped me to understand processes and task management
 •	On the other side, the organization supports learning deeply in Machine learning as they have required it for the future. However, I faced difficulties while creating a flow for the Machine learning course.
 •	In technical difficulties, I worked with basic SQL queries with small size of data. 
+
