@@ -19,3 +19,11 @@ TODO:
     - Datasets                                  done
     - First ML Project                          
     - Linear Regression                         done
+
+•	At the beginning of the internship, the organization provides credentials in POS systems, online applications, and device access. 
+•	It was just the beginning of my learning, and as a result, I faced several difficulties. The first task was to generate a repository as the name of ML models where I should have to push my model for evaluation. 
+•	So, I faced a problem connecting the GitHub repository with Visual Studio because of the large size of the csv file. 
+•	The organization uses different platforms for collecting data including online food applications, the company's website, and a daily reporting system. 
+•	It was hard to catch up with daily goals as an intern, but senior employees helped me to understand processes and task management
+•	On the other side, the organization supports learning deeply in Machine learning as they have required it for the future. However, I faced difficulties while creating a flow for the Machine learning course.
+•	In technical difficulties, I worked with basic SQL queries with small size of data. 
