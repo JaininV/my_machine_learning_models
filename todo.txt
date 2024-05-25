@@ -21,4 +21,3 @@ TODO:
     - Datasets                                  done
     - First ML Project                          
     - Linear Regression                         done
-
