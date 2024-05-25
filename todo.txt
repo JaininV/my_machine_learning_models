@@ -9,6 +9,8 @@ Need:
     - Money project
 
 TODO:
+    - Post linked in
+    - start internship
     - ML Fundamentals                           done
     - What is ML?                               done
     - Types of ML                               done
