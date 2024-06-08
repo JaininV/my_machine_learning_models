@@ -8,16 +8,13 @@ Need:
     - Need to complete ML course in sunday
     - Money project
 
-TODO:
-    - Post linked in
-    - start internship
-    - ML Fundamentals                           done
-    - What is ML?                               done
-    - Types of ML                               done
-    - Supervised vs. Unsupervised Learning      done
-    - Setting up for ML                         done    
-    - Python and Libraries                      done
-    - Jupyter Notebooks                         done
-    - Datasets                                  done
-    - First ML Project                          
-    - Linear Regression                         done
+Todo:
+    - Classification Algorithms                           done
+    - Logistic Regression
+    - Decision Trees
+    - Model Evaluation
+    - Accuracy, Precision, Recall, F1 Score
+    - Confusion Matrix
+    - Clustering
+    - K-Means
+    - Hierarchical Clustering
