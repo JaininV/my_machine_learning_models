@@ -10,7 +10,7 @@ Need:
 
 Todo:
     - Classification Algorithms                           done
-    - Logistic Regression
+    - Logistic Regression                                 done
     - Decision Trees
     - Model Evaluation
     - Accuracy, Precision, Recall, F1 Score
