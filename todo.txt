@@ -12,8 +12,8 @@ Todo:
     - Classification Algorithms                           done
     - Logistic Regression                                 done
     - Decision Trees                                      done
-    - Model Evaluation                                      
-    - Accuracy, Precision, Recall, F1 Score
+    - Model Evaluation                                    done  
+    - Accuracy, Precision, Recall, F1 Score 
     - Confusion Matrix
     - Clustering
     - K-Means
