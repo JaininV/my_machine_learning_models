@@ -9,10 +9,10 @@ Need:
     - Money project
 
 Todo:
-    - Classification Algorithms                           done
-    - Logistic Regression                                 done
-    - Decision Trees                                      done
-    - Model Evaluation                                    done  
+    - Classification Algorithms                           
+    - Logistic Regression                                 
+    - Decision Trees                                      
+    - Model Evaluation                                      
     - Accuracy, Precision, Recall, F1 Score 
     - Confusion Matrix
     - Clustering
