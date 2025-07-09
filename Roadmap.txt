@@ -88,4 +88,26 @@ Resources and Community
     - Books (ISLR, Introduction to ML with Python)
     - Data Science Blogs and Podcasts
     - GitHub Repo
-    - Data Science Communities (Kaggle)1
+    - Data Science Communities (Kaggle)
+
+
+-- Linear Regression
+Logistic Regression
+Decision Tree
+Random Forest
+Gradient Boosting / XGBoost
+K-Means Clustering
+Hierarchical Clustering
+PCA
+t-SNE
+Autoencoder
+SVM (Linear/Kernel)
+Feedforward Neural Network
+CNN (Convolutional Neural Network)
+RNN (Recurrent Neural Network)
+LSTM
+NLP - Text Classification
+Named Entity Recognition (NER)
+Q-Learning
+Deep Q-Network (DQN)
+Disease prediction (diabetes, heart)

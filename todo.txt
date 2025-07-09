@@ -20,14 +20,4 @@ Todo:
     - Hierarchical Clustering
 
 
-Rice
-Black beans
-Lettuce
-Pico
-Cheese
-Green Onions
-Guac
-Churros
-Chicken
-Tofu
 
